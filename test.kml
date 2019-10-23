@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>			
+<kml xmlns="http://earth.google.com/kml/2.1">			
+<Document kmlns="http://earth.google.com/kml/2.1">			
+	<name>ATI-PIMESTIC 29-01-08</name>		
+	<open>1</open>		
+	<Style id="sh_ylw-pushpin_copy1">		
+		<IconStyle>	
+			<color>ff00ff00</color>
+			<scale>1.2</scale>
+		</IconStyle>	
+		<LabelStyle>	
+			<color>ff00ff00</color>
+		</LabelStyle>	
+	</Style>		
+	<Style id="sn_ylw-pushpin_copy1">		
+		<IconStyle>	
+			<color>ff00ff00</color>
+		</IconStyle>	
+		<LabelStyle>	
+			<color>ff00ff00</color>
+		</LabelStyle>	
+	</Style>		
+	<StyleMap id="msn_ylw-pushpin_copy0">		
+		<Pair>	
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy0</styleUrl>
+		</Pair>	
+		<Pair>	
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy0</styleUrl>
+		</Pair>	
+	</StyleMap>		
+	<Style id="sn_ylw-pushpin_copy0">		
+		<IconStyle>	
+			<color>ff0000ff</color>
+		</IconStyle>	
+		<LabelStyle>	
+			<color>ff0000ff</color>
+		</LabelStyle>	
+	</Style>		
+	<StyleMap id="msn_ylw-pushpin_copy1">		
+		<Pair>	
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy1</styleUrl>
+		</Pair>	
+		<Pair>	
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy1</styleUrl>
+		</Pair>							
+	</StyleMap>								
+	<Style id="sh_ylw-pushpin_copy0">								
+		<IconStyle>							
+			<color>ff0000ff</color>						
+			<scale>1.2</scale>						
+		</IconStyle>							
+		<LabelStyle>							
+			<color>ff0000ff</color>						
+		</LabelStyle>							
+	</Style>								
+<Placemark><name>	Sebastià Justicia Pérez	</name><Snippet/><address> 	Cerdanyola del Vallès , Barcelona	</address> <description>	Consultor Senior	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.140769,41.49137,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Angel Nieva	</name><Snippet/><address> 	Barcelona	</address> <description>	Director Técnico Digital Parks	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Josep M Garcia	</name><Snippet/><address> 	NI IDEA, Barcelona	</address> <description>	0	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Jorge L. Cangas	</name><Snippet/><address> 	Barcelona	</address> <description>	0	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Mario Pareja	</name><Snippet/><address> 	Barcelona	</address> <description>	Ingeniero de sistemas	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Ramón Mesalles García	</name><Snippet/><address> 	Passeig Mare de Deu del Coll 4, 3r 08023 Barcelona	</address> <description>	Consultor Senior	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.144763,41.41361100000001,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Xavier Ordeix	</name><Snippet/><address> 	NI IDEA, Barcelona	</address> <description>	0	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Manel Cruz	</name><Snippet/><address> 	NI IDEA, Barcelona	</address> <description>	0	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Ebrahim Mesleh Lopez	</name><Snippet/><address> 	Sitges, Barcelona	</address> <description>	0	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Ferran Martí Tassier	</name><Snippet/><address> 	C/ Adrià Gual, 3 Baixos A,08190 Sant Cugat del Vallès, Barcelona	</address> <description>	"Consultor i formador independent especialitzat en l’àmbit de l’IT Governance
+Gerent de Serveis TIC de Netmind Services"	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Toni Garcia-Die 	</name><Snippet/><address> 	Barcelona	</address> <description>	formación avanzada, la consultoría y el desarrollo de aplicaciones	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	José Cortés Arena	</name><Snippet/><address> 	Calle Salvador 15,  08001, Barcelona	</address> <description>	(RUP, CMMI, ITIL) Consultoría de Calidad e Ingeniería del Software	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.165005,41.37818,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Jose Luis Lorenz	</name><Snippet/><address> 	NI IDEA, Barcelona	</address> <description>	0	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Diego Llorca	</name><Snippet/><address> 	Palma de Mallorca, Baleares	</address> <description>	0	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.650017,39.56947,0	</coordinates></Point></Placemark>	
+<Placemark><name>	DÍDAC SHI SUN LEE HSING	</name><Snippet/><address> 	FIGUERES, 17600, GIRONA	</address> <description>	emprendedor	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.97967, 42.264435,0	</coordinates></Point></Placemark>	
+<Placemark><name>	José Holgado	</name><Snippet/><address> 	NI IDEA, Barcelona	</address> <description>	Socio Senior	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Juanjo Martí Manzano	</name><Snippet/><address> 	Sitges, Barcelona	</address> <description>	Director Planificación y Organización UOC	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	1.811222,41.234782,0	</coordinates></Point></Placemark>	
+<Placemark><name>	LLUIS VALLS BERNAUS	</name><Snippet/><address> 	BRICS, Solsona, Lleida	</address> <description>	Responsable de desenvolupament	</description> <styleUrl>#msn_ylw-pushpin_copy1</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	1.512606,41.94794100000001,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Xavier Badia	</name><Snippet/><address> 	Tremp, Pallars Jussà	</address> <description>	"Tècnic Informàtic del CITA (Consell Comarcal del
+Pallars Jussà)"	</description> <styleUrl>#msn_ylw-pushpin_copy1</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	0.894903,42.168581,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Àngel Josep Ferré	</name><Snippet/><address> 	"Senieta, 3, esc. B, 2n. 3a.
+43540 Sant Carles de la Ràpita"	</address> <description>	"Llicenciatura d’Informàtica per la UPC, especialitat en Gestió i Sistemes.
+Auditoria Informàtica per l’Institut Català de Tecnologia."	</description> <styleUrl>#msn_ylw-pushpin_copy1</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	0.577402,40.613349,0	</coordinates></Point></Placemark>	
+<Placemark><name>	JAVIER ROCA VILATA	</name><Snippet/><address> 	Rambla de la Pau, 66 Atico,  08800 VILANOVA I LA GELTRU	</address> <description>	Jefe de proyectos IMI	</description> <styleUrl>#msn_ylw-pushpin_copy1</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	1.72907,41.21622700000001,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Antoni Bolos i Manresa	</name><Snippet/><address> 	Calle Balmes 2, 25332, La Fuliola, Lleida	</address> <description>	Técnico Senior, Asesoria y formación	</description> <styleUrl>#msn_ylw-pushpin_copy1</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	1.016489,41.713876,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Carlos Garcia Bueno	</name><Snippet/><address> 	Consell Comarcal del Baix Ebre 	</address> <description>	Responsable d'un telecentre i com a tècnic informàtic del Consell Comarcal del Baix Ebre	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	0.517703,40.814552,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Andrés Pérez Payeras	</name><Snippet/><address> 	Gran via corts catalanes, 08007, barcelona	</address> <description>	Director proyectos, Consultor Senior	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	SERGI AUGER MIRALPEIX	</name><Snippet/><address> 	SANT HILARI DE SACALM, 17403, Girona	</address> <description>	Técnico microinformática-autónomo	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.510884,41.878957,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Joan Salabert Parramon	</name><Snippet/><address> 	Calle valencia 171, 08011 Barcelona	</address> <description>	empresa	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.169919,41.387917,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Toni Granell	</name><Snippet/><address> 	Maria Aurelia Capmany 2-4, 08001, Barcelona	</address> <description>	empresa	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.170213,41.380226,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Gener López Morén	</name><Snippet/><address> 	Plaza Francesc Macià, 8-9, 08029 Barcelona	</address> <description>	Empresa:Auctor Consulting - Cargo:Socio - Cometidos:Gerente y Consultor Senior	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.144234,41.392452,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Lluís Sala	</name><Snippet/><address> 	Carrer de Montserrat Roig, 08304, Mataró	</address> <description>	Director proyectos, Consultor Senior	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.441352,41.554327,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Josep Soriano Barrau	</name><Snippet/><address> 	Passeig La Salle 25, 43850 , CAMBRILS	</address> <description>	empresa y consultor, director de projectes i gerent	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	1.053575,41.074443,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Fernando Acedo Acedo	</name><Snippet/><address> 	Carrer de Pi i Margall, 40, 08025, Barcelona	</address> <description>	Asesoria y formación	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.163532,41.407507,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Pere Guiu Zaragoza	</name><Snippet/><address> 	Avinguda del Pla del Vent, 08970, Sant Joan Despí	</address> <description>	Consultoría Seguridad – LOPD	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.061156,41.377018,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Pere Mariné Jové	</name><Snippet/><address> 	calle Pujades 123,  08005, Barcelona	</address> <description>	Director proyectos, Consultor Senior	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.197472,41.39927,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Alfons Comas	</name><Snippet/><address> 	Calle Montseny  3,     08348, Cabrils,Barcelona	</address> <description>	Socio senior especializado en soluciones basadas en los conceptos de “Gestión del Conocimiento”, “Gestión Documental” y “Work-Flow”.	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	2.383604,41.518615,0	</coordinates></Point></Placemark>	
+<Placemark><name>	Santiago Navarro Martínez	</name><Snippet/><address> 	Tarragona	</address> <description>	Socio Senior - Soluciones de Seguridad	</description> <styleUrl>#msn_ylw-pushpin_copy0</styleUrl> <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>	1.245457,41.11901400000001,0	</coordinates></Point></Placemark>	</Document></kml>
